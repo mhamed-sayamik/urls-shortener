@@ -19,7 +19,6 @@ cd url-shortener
 3. Install the PHP dependencies using Composer:
 
 composer install
-sql_more
 
 
 4. Create a new MySQL database for the application called `url-shortener` or feel free to use whatever name just remember changing the environement variables accordingly.
